@@ -1,0 +1,6 @@
+langchain
+langchain-ollama
+langchain-chroma
+langchain-community
+unstructured[all-docs] # Might need to install poppler depending on OS
+streamlit
