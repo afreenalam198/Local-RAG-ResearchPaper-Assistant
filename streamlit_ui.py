@@ -27,9 +27,9 @@ chain = prompt | llm_model
 
 # Streamlit UI
 st.set_page_config(page_title="ResearchPal Chat", layout="wide")
-st.title("ResearchPal - Local Paper Assistant")
+st.title("ResearchPal - Local Research Paper Assistant")
 
-st.markdown("Ask research questions about your uploaded Healthcare AI papers.")
+st.markdown("Ask research questions about your uploaded research papers.")
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
