@@ -48,7 +48,7 @@ Healthcare Research Assistant/
 └── README.md  
 
 ## 🖼️ UI Preview
-(Replace screenshot.png with your actual screenshot)
+![Streamlit UI Screenshot](UI-Screenshot/ui-ss.png "Streamlit UI Screenshot")
 
 ## 🧠 How It Works
 PDF Parsing → Extracts text, splits into smaller chunks using UnstructuredPDFLoader from LangChain.
