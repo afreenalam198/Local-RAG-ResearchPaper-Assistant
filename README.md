@@ -39,7 +39,7 @@ It leverages **Retrieval-Augmented Generation (RAG)** with **Ollama LLMs** and *
 
 ## 📂 Project Structure
 
-Healthcare Research Assistant/
+Research Paper Assistant/
 │  
 ├── main.py # CLI interface for research Q&A  
 ├── streamlit_ui.py # Web UI using Streamlit  
