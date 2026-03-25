@@ -66,5 +66,4 @@ Answer Generation → Responds only with context from your papers.
 ## 📌 Future Improvements
 - Multi-PDF summarization
 - Improved retrieval ranking
-- Fine-tuning for medical terminology
 - Export answers with citations
